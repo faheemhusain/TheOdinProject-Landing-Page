@@ -45,16 +45,19 @@ h1 {
     
 }
 
+
+
 h2 {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
-    
+    margin: 0;
 }
 
 .secondarytext {
     color: #E5E7EB;
     font-size: 18px;
+    margin: 0;
 }
 
 .placeholder {
@@ -80,6 +83,7 @@ button {
     color: white;
     border-radius: 6px;
     border: solid #3882F6;
+    margin: 10px 0;
 }
 
 .box {
@@ -102,9 +106,9 @@ button {
 }
 
 .quotebar {
-    padding: 0 10rem;
+    padding: 5rem 10rem;
     background-color: #E5E7EB;
-
+    
 
 }
 
@@ -127,7 +131,7 @@ button {
     align-items: center;
     gap: 10rem;
     padding: 2rem 5rem;
-    margin: 1rem 5rem;
+    margin: 5rem 5rem;
     background-color: #3882F6;
     border-radius: 6px;
     color: white;
@@ -144,4 +148,15 @@ button {
     width: 100%;
     display: flex;
     justify-content: center;
+    padding: 1rem;
 }
+
+.prioraction {
+    font-weight: bold;
+    margin: 0;
+}
+
+.action {
+    margin: 0;
+}
+
